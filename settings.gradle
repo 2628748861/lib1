@@ -1,0 +1,4 @@
+rootProject.name = 'test'
+include 'log'
+include 'main'
+
